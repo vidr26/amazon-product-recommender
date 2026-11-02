@@ -3,6 +3,8 @@
 Recommends electronics products to Amazon customers from their past ratings. It
 compares rank-based, user-user, item-item and matrix-factorization approaches.
 
+Completed as part of the **Applied Data Science Program**, MIT Professional Education.
+
 - **Notebook (code, analysis and conclusions):** [`VidyaVasist_Elective_project_RecommendationSystems.ipynb`](VidyaVasist_Elective_project_RecommendationSystems.ipynb)
 
 ## Problem
